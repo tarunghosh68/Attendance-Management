@@ -42,7 +42,7 @@ This project provides a modern dashboard-style UI with sidebar navigation, top s
 
 ## 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/attendance-system.git
+   git clone https://github.com/tarunghosh68/Attendance-Management.git
    cd attendance-system
    
 ## 2.Compile the project:
