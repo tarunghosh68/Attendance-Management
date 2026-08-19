@@ -31,12 +31,12 @@ This project provides a modern dashboard-style UI with sidebar navigation, top s
 ## 📂 Project Structure
 
 AttendanceSystem/
-├── MainDashboard.java
-├── DatabaseHelper.java
-├── StudentPanel.java
-├── AttendancePanel.java
-├── ReportPanel.java
-└── attendance.db   (auto created on first run)
+├── MainDashboard.java/
+├── DatabaseHelper.java/
+├── StudentPanel.java/
+├── AttendancePanel.java/
+├── ReportPanel.java/
+└── attendance.db   (auto created on first run)/
 
 ## 🚀 Setup & Run
 
